@@ -8,7 +8,7 @@ printf(">>3 departamentos: capacidad de 4 personas o mayor de 2 (c/u)\n>>3 depar
 for(i=0;i<20;i++)
 
     {
-          printf("\PISO %d\n",i+1);
+          printf("\nPISO %d\n",i+1);
 
          for(j=0;j<6;j++)
 
